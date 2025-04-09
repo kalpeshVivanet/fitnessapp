@@ -4,13 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
+Welcome Screen: Personalized welcome message
+User Authentication: Secure email/password login and registration
+User Profiles: Store and manage user information
+Onboarding Experience: Guide new users through the app's features
+Home Screen: Main dashboard for the fitness app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter: For cross-platform mobile application development
+Firebase Authentication: For user authentication
+Cloud Firestore: For storing user data and preferences
+Material Design: For consistent and modern UI components
