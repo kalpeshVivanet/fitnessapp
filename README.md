@@ -18,3 +18,10 @@ Flutter: For cross-platform mobile application development
 Firebase Authentication: For user authentication
 Cloud Firestore: For storing user data and preferences
 Material Design: For consistent and modern UI components
+
+# Dependencies
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.2
+  cloud_firestore: ^5.6.6
+  cupertino_icons: ^1.0.2
+
